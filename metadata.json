@@ -1,0 +1,6 @@
+{
+  "name": "FoodMatch - Explore, Compatibility & Meal Nutrition Calculator",
+  "description": "Aplikasi rekomendasi makanan sehat, analisis kompatibilitas preferensi gizi (Nutri-Score, NOVA group), dan kalkulator nutrisi porsi makanan berbasis Open Food Facts API dengan panduan arsitektur Flutter Riverpod Clean Architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
